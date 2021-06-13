@@ -23,7 +23,7 @@ docker container run -d -p 5432:5432 car-dealership:latest
 The chosen schema design of the database attempts to minimize data duplication which results in better data integrity
 and less storage overhead.
 
-<img src="images/er-diagram.png" width="1200" height="1200">
+![er-diagram](images/er-diagram.jpg)
 
 ### Queries
 
